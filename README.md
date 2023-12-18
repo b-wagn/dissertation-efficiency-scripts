@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains Python scripts used in my dissertation..
+This repository contains Python scripts used in my dissertation.
 These scripts have been used to compute security levels and efficiency metrics (like signature size, communication complexity, ...) of cryptographic schemes I proposed in my dissertation.
 
 Note: the scripts (with minor modifications) are also included in the appendices of the respective papers.
