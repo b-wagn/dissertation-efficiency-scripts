@@ -74,7 +74,7 @@ chopsticksone = {
 	"level": kappa - 2 - log_q_s,
 	"pk": 2*sizege,
 	"comm": 3*sizege+1*sizefe+secpar,
-	"sig": 3*sizege+4*sizefe,
+	"sig": 4*sizefe+2*secpar,
 }
 
 chopstickstwo = {
@@ -82,7 +82,7 @@ chopstickstwo = {
 	"level": kappa - 2,
 	"pk": 4*sizege,
 	"comm": 6*sizege+2*sizefe+secpar+1,
-	"sig": 6*sizege+8*sizefe+secpar, #assuming number of signers <= secpar
+	"sig": 8*sizefe+4*secpar+secpar, #assuming number of signers <= secpar
 }
 
 toothone = {

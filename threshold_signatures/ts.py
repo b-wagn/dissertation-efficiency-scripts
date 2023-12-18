@@ -12,7 +12,7 @@ from tabulate import tabulate
 
 #sizes of group elements and exponents
 #we assume secp256k1; all sizes in bytes
-sizec = 16 # size of a challenge
+sizec = 32 # size of a challenge
 sizege = 33
 sizefe = 32
 sizehash = 32
